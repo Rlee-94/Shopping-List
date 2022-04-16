@@ -2,7 +2,7 @@
 
 Project to create an interactive shopping list. 
 
-🔗 **Live preview:** [here]()
+🔗 **Live preview:** [here](https://rlee-94.github.io/Shopping-List/)
 
 ## Built with
 * HTML
@@ -31,7 +31,7 @@ Project to create an interactive shopping list.
 * Gained a better understanding of **HTML**, **CSS**, and **Javascript** foundations.
 * Practiced aligning and containing a webpage using **flex** 
 * Utilized StackOverflow to help add click and keyboard event listeners. These event listeners allow users to click on the item and strikethrough, or they can delete the item with the delete button. Any new item that's added will also have a delete button automatically placed beside it. 
-* I used [CSS Tricks](https://css-tricks.com/perfect-full-page-background-image/) and (https://css-tricks.com/almanac/properties/b/backdrop-filter/) to help apply my background image/blur.
+* I used [CSS Tricks](https://css-tricks.com/perfect-full-page-background-image/) and another [CSS Tricks link](https://css-tricks.com/almanac/properties/b/backdrop-filter/) to help apply my background image/blur.
 
 
 ## Author
